@@ -10427,9 +10427,9 @@ header.masthead .masthead-heading {
 
 section#contact {
   background-color: #212529;
-  background-image: url("../assets/img/Marica2.jpg");
+  background-image: url("../assets/img/SeekerContact.png");
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: contain center;
 }
 section#contact .section-heading {
   color: #fff;
